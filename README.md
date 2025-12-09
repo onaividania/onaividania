@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @onaividania
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Artificial Intelligence
+- 🌱 I’m currently exploring Artificial Intelligence
 - 💞️ I’m looking to collaborate on any projects regarding dashboard reports with Power BI, MS Excel and Tableau
 - 📫 How to reach me : onaivi.dania@gmail.com
 
